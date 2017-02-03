@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(name = 'queue_hlatype_status',
       author = 'Jeremiah H. Savage',
       author_email = 'jeremiahsavage@gmail.com',
-      version = 0.12,
+      version = 0.13,
       description = 'write hlatyping db status',
       url = 'https://github.com/jeremiahsavage/queue_hlatype_status',
       license = 'Apache 2.0',
