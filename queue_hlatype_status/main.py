@@ -69,7 +69,6 @@ def main():
     hostname = args.hostname
     host_ipaddress = args.host_ipaddress
     host_mac = args.host_mac
-    known_snp_signpost_id = args.known_snp_signpost_id
     num_threads = args.num_threads
     reference_fa_signpost_id = args.reference_fa_signpost_id
     repo = args.repo
