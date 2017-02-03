@@ -70,7 +70,6 @@ def main():
     host_ipaddress = args.host_ipaddress
     host_mac = args.host_mac
     num_threads = args.num_threads
-    reference_fa_signpost_id = args.reference_fa_signpost_id
     repo = args.repo
     repo_hash = args.repo_hash
     run_uuid = args.run_uuid
