@@ -95,7 +95,6 @@ def main():
     status_dict['repo'] = repo
     status_dict['repo_hash'] = repo_hash
     status_dict['run_uuid'] = [run_uuid]
-    status_dict['s3_bam_url'] = s3_bam_url
     status_dict['status'] = status
     status_dict['time_seconds'] = time_seconds
 
